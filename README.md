@@ -1,6 +1,6 @@
 # finalproject1
-com[0] PIN_111
-com[1] PIN_112
+#com[0] PIN_111
+#com[1] PIN_112
 com[2] PIN_113
 EN PIN_114
 restart PIN_115
