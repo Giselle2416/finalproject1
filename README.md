@@ -28,6 +28,14 @@ ledr[4] PIN_141
 ledr[5] PIN_142
 ledr[6] PIN_143
 ledr[7] PIN_144
+ledb[0] PIN_64
+ledb[1] PIN_65
+ledb[2] PIN_66
+ledb[3] PIN_67
+ledb[4] PIN_68
+ledb[5] PIN_69
+ledb[6] PIN_70
+ledb[7] PIN_71
 seg[0] PIN_124
 seg[1] PIN_125
 seg[2] PIN_126
