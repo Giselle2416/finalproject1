@@ -44,4 +44,3 @@ seg[[3] PIN_127
 seg[4] PIN_128
 seg[5] PIN_129
 seg[6] PIN_132
-
