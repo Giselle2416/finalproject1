@@ -161,8 +161,6 @@ always@(posedge clk_sec)
     sec2=4'b0001;
    end
 	
-   if((grade1*10 +grade2) == 10 )
-	timeout = 1;
   else if(timeout!=1)
    begin
     if (sec1 == 4'b0000 && sec2 == 4'b0000) 
